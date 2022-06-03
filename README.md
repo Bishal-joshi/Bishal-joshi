@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing mobile app, webbsites , API etc.(currently)
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on interested things
-- 📫 How to reach me is through email.
+- 📫 How to reach me is through bishaljoshi8858@gmail.com.
 
 <!---
 Bishal-joshi/Bishal-joshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
