@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Bishal-joshi
-- 👀 I’m interested in Developing mobile app, webbsites , API etc.(currently)
+- 👋 Hi, I’m Bishal
+- 👀 I’m interested in Inventing,Developing, and Managing
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on interested things
 - 📫 How to reach me is through bishaljoshi8858@gmail.com.
