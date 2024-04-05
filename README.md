@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Bishal
 - 👀 I’m a computer engineer and my github will contribute to an open source so that the knowledge is free for everyone
 - 🌱 I’m currently developing things...
+- .......Coming Soon..............
 - 💞️ I’m looking to collaborate on interested things
 - 📫 How to reach me is through bishaljoshi8858@gmail.com.
 
